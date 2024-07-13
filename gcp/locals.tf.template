@@ -1,0 +1,6 @@
+locals {
+    organizatoin_id = "<<org-id>>"
+    project_id = "<<project-id>>"
+    region = "<<region>>"
+    zone = "<<zone>>"
+}
